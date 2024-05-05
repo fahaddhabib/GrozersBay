@@ -55,10 +55,6 @@ GrozersBay is a convenient online grocery shopping app designed to cater to all 
 
 ![orderplacing](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/orderplacing.gif)
 
-## Important Information
-
-- **Service Availability**: GrozersBay operates in Gujranwala, Rahwali, Ghakhar, and JalalPur Jattan.
-- **Customer Support**: Contact us at 03020622309 (Gujranwala, Rahwali, Ghakhar) or 03034550066 (JalalPur Jattan) for assistance.
-- **Feedback**: We welcome your feedback at grozersbay@gmail.com to enhance our services.
+https://www.facebook.com/grozersbayco/
 
 GrozersBay - Your Trusted Grocery Shopping Companion!
