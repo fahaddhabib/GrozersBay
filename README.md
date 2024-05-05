@@ -53,7 +53,7 @@ GrozersBay is a convenient online grocery shopping app designed to cater to all 
 
 ## Demo
 
-![orderplacing](orderplacing.gif)
+![orderplacing](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/orderplacing.gif)
 
 ## Important Information
 
