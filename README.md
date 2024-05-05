@@ -39,15 +39,17 @@ GrozersBay is a convenient online grocery shopping app designed to cater to all 
 
 ## Screenshots
 
-![1](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/1.jpg)
-![2](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/2.jpg)
-![3](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/3.jpg)
-![4](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/4.jpg)
-![5](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/5.jpg)
-![6](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/6.jpg)
-![7](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/7.jpg)
-![8](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/8.jpg)
-![9](https://github.com/fahaddhabib/GrozersBay/blob/main/assets/9.jpg)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/1.jpg" alt="1" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/2.jpg" alt="2" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/3.jpg" alt="3" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/4.jpg" alt="4" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/5.jpg" alt="5" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/6.jpg" alt="6" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/7.jpg" alt="7" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/8.jpg" alt="8" width="200">
+    <img src="https://github.com/fahaddhabib/GrozersBay/blob/main/assets/9.jpg" alt="9" width="200">
+</div>
 
 ## Demo
 
